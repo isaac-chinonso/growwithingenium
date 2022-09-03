@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Blog;
 use App\Models\Program;
+use App\Models\Category;
 
 class PageController extends Controller
 {
@@ -40,6 +41,14 @@ class PageController extends Controller
     {
         $data['blogpost'] = Blog::where('status', '=', 1)->inRandomOrder()->simplePaginate(9);
         return view('frontend.blog', $data);
+    }
+
+    public function blogdetails($slug)
+    {
+        $data['blogdetails'] = Blog::where('slug', '=', $slug)->first();
+        $data['blogpost'] = Blog::where('status', '=', 1)->inRandomOrder()->simplePaginate(9);
+        $data['categories'] = Category::get();
+        return view('frontend.blogdetail', $data);
     }
 
     public function material()

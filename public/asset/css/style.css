@@ -1700,11 +1700,10 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {
 /*------------------------ Our Portfolio ----------------------*/
 
 .our-portfolio {
-    padding: 180px 0 200px 0;
+    padding: 20px 0 100px 0;
 }
 
 .our-portfolio .theme-title:before {
-    content: 'C';
     font-size: 300px;
     color: rgba(9, 9, 19, 0.03);
     position: absolute;
@@ -4605,4 +4604,15 @@ footer .bottom-footer {
 
 .redcolor {
     color: #ff3838;
+}
+
+.intro {
+    height: fit-content;
+}
+
+@media (max-width: 600px) {
+    .intro {
+        height: 230px;
+        width: max-content;
+    }
 }

@@ -173,7 +173,172 @@ Who we are || Ingenium Concept LTD
         </div>
     </div>
     <!-- /.container -->
-</div><br><br><br><br><br><br>
+</div>
+
+<!-- 
+			=============================================
+				Our Portfolio
+			============================================== 
+			-->
+<div class="our-portfolio">
+    <div class="container">
+        <div class="theme-title text-center">
+            <h6>Ingenium Concept</h6>
+            <h2>Gallery</h2>
+        </div> <!-- /.theme-title -->
+    </div> <!-- /.container -->
+
+    <div class="wrapper">
+        <div class="row">
+            <div class="portfolio-slider">
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/2.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/2.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/3.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/3.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/4.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/4.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/5.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/5.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/6.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/6.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/7.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/7.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/8.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/8.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/9.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/9.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/10.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/10.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/11.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/11.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/12.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/12.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/13.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/13.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/14.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/14.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/15.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/15.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/16.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/16.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/17.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/17.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/18.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/18.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/19.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/19.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/20.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/20.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/21.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/20.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/22.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/20.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/23.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/20.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/24.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/20.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image">
+                        <img src="asset/images/portfolio/25.jpg" alt="">
+                        <div class="opacity tran4s"><a data-fancybox="project" href="asset/images/portfolio/20.jpg" class="tran3s" title="We’ve done lot’s of work, Let’s Check"></a></div>
+                    </div>
+                </div>
+            </div> <!-- /.portfolio-slider -->
+        </div> <!-- /.row -->
+    </div> <!-- /.wrapper -->
+</div> <!-- /.our-portfolio -->
 
 
 <div class="our-team-styleOne inner-page" id="team">
@@ -201,43 +366,39 @@ Who we are || Ingenium Concept LTD
             <div class="col-md-6 col-xs-6">
                 <div class="product-info">
                     <h4><b>MEET OUR FOUNDER</b></h4><br>
-                    <p style="text-align: justify;font-size: 16px;"><b>Jennifer Oresiri Orode</b> is a certified customer service expert and business coach with over 15 years of experience inspiring business growth and customer-centric delivery across industries. Her passion for business growth
-                        and personal transformation as a key driver for economic growth is hinged on the belief that the client/customer is the most important factor of business success and they should be given the best of experiences.
-                    </p><br>
+                    <p style="text-align: justify;font-size: 16px;"><b>Jennifer Oresiri Orode</b> is a Customer Service Expert re-engineering businesses across Africa to achieve high profitability by delivering exceptional experiences to customers. She is a firm believer in the mantra that businesses should be of the customer and for the customer.</p><br>
                     <p style="text-align: justify;font-size: 16px;">
-                        <b>Jennifer</b> is a member of the Chartered Management Institute, United Kingdom (CMI) and Nigeria Institute of Management (NIM). She has led and managed multi-dimensional teams across various capacities in customer relationship
-                        management, strategy development and training, business development and sales, treasury and security sales, funds management, and organizational restructuring. Starting her career in the finance sector (investment banking
-                        in particular), she has built strong alliances and trust with her clients by delivering beyond expectations while managing portfolios worth millions of dollars. Most recently, Director, Capital Market Operations with Astute
-                        Professionals Limited.
-                    </p>
+                        Certified by the National Customer Service Association (NCSA) USA, she is a member of the Chartered Management Institute (CMI) United Kingdom and Chartered Manager with the Nigeria Institute of Management (NIM). She holds a Master’s degree in Business Administration (Finance) from Coventry University and has been trained as a Portfolio Manager by the International Faculty of Finance (IFF), United Kingdom.
+                    </p><br>
+                    <p style="text-align: justify;font-size: 16px;">Jennifer is passionate about driving business growth and transformation as well as creating wealth for both customers and organisations. She has led and managed businesses and multi-dimensional teams across various capacities in treasury and security sales, funds management, business development, client relationship management, and strategy formulation and implementation. She is the curator of the Entrepreneurial Training Program, CRSP, which has equipped several entrepreneurs to engineer customer-centric businesses.</p>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6 col-xs-6">
+            <div class="col-md-4 col-xs-4">
                 <div class="single-team-member">
                     <div class="image">
                         <img src="asset/images/team/2.jpg" alt="">
                         <div class="opacity tran3s">
                             <ul class="tran3s">
-                                <li><a href="" class="tran3s"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="" class="tran3s"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="" class="tran3s"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                <li><a href="" class="tran3s"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.facebook.com/adeyemi.motunrayo.31/" class="tran3s"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="https://twitter.com/TunesAde" class="tran3s"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.instagram.com/tunes_ade/" class="tran3s"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/tunes-ade/" class="tran3s"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
                     <!-- /.image -->
                     <h6>Motunrayo Adeyemi</h6>
-                    <p>Media & Communications</p>
+                    <p>Corporate Communications Officer</p>
                 </div>
                 <!-- /.single-team-member -->
             </div>
             <!-- /.col- -->
-            <div class="col-md-6 col-xs-6">
+            <div class="col-md-4 col-xs-4">
                 <div class="single-team-member">
                     <div class="image">
-                        <img src="asset/images/team/3.jpg" alt="">
+                        <img src="asset/images/team/1.jpg" alt="">
                         <div class="opacity tran3s">
                             <ul class="tran3s">
                                 <li><a href="" class="tran3s"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -248,8 +409,28 @@ Who we are || Ingenium Concept LTD
                         </div>
                     </div>
                     <!-- /.image -->
-                    <h6>Foqrul Islam</h6>
-                    <p>Admin & Operations</p>
+                    <h6>Elizabeth Ibe</h6>
+                    <p>Admin & Account Officer</p>
+                </div>
+                <!-- /.single-team-member -->
+            </div>
+            <!-- /.col- -->
+            <div class="col-md-4 col-xs-4">
+                <div class="single-team-member">
+                    <div class="image">
+                        <img src="asset/images/team/4.jpg" alt="">
+                        <div class="opacity tran3s">
+                            <ul class="tran3s">
+                                <li><a href="" class="tran3s"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="" class="tran3s"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="" class="tran3s"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="" class="tran3s"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /.image -->
+                    <h6>Elizabeth Ibe</h6>
+                    <p>Strategy & Project Officer</p>
                 </div>
                 <!-- /.single-team-member -->
             </div>
@@ -261,81 +442,62 @@ Who we are || Ingenium Concept LTD
 </div>
 
 <!-- 
-	=============================================
-		Testimonial
-	============================================== 
-				-->
-<div class="testimonial-section bg-image">
+			=============================================
+				Testimonial
+			============================================== 
+			-->
+<div class="testimonial-section homeThree">
     <div class="container">
-        <div class="main-container col-md-12 col-md-offset-6">
-            <div class="theme-title">
-                <h6>Testimonials</h6>
-                <h2>Check what’s our client <br>Say about us</h2>
-            </div> <!-- /.theme-title -->
-            <div class="testimonial-slider">
-                <div class="item">
-                    <div class="wrapper">
-                        <p>You are truly professional at your work. The integrity is why clients like me trust you with their huge sum of funds. Thank you for everything. </p>
-                        <div class="name clearfix">
-                            <img src="asset/images/home/4.jpg" alt="">
-                            <h5>Kadri Yusuf</h5>
-                        </div>
-                    </div> <!-- /.wrapper -->
-                </div> <!-- /.item -->
-                <div class="item">
-                    <div class="wrapper">
-                        <p>I love the professionalism and the fact that you kept to terms of the agreement. Delivery of service was also top-notch!</p>
-                        <div class="name clearfix">
-                            <img src="asset/images/home/4.jpg" alt="">
-                            <h5>Ijeoma I</h5>
-                        </div>
-                    </div> <!-- /.wrapper -->
-                </div> <!-- /.item -->
-                <div class="item">
-                    <div class="wrapper">
-                        <p>Working with Jennifer and the team has been an amazing experience as she is very professional and relates with Clients as family. Always on top of her game and highly result-oriented. Her advice has been very helpful in my decision making and I've never regretted any idea we bounce off each other.</p>
-                        <div class="name clearfix">
-                            <img src="asset/images/home/4.jpg" alt="">
-                            <h5>Olushola O.</h5>
-                        </div>
-                    </div> <!-- /.wrapper -->
-                </div> <!-- /.item -->
-                <div class="item">
-                    <div class="wrapper">
-                        <p>Highly skilled, experienced and strategic professionals that are results-oriented</p>
-                        <div class="name clearfix">
-                            <img src="asset/images/home/4.jpg" alt="">
-                            <h5>Onakorere R.O</h5>
-                        </div>
-                    </div> <!-- /.wrapper -->
-                </div> <!-- /.item -->
-                <div class="item">
-                    <div class="wrapper">
-                        <p>Always professional in all aspects.</p>
-                        <div class="name clearfix">
-                            <img src="asset/images/home/4.jpg" alt="">
-                            <h5>Mr clement</h5>
-                        </div>
-                    </div> <!-- /.wrapper -->
-                </div> <!-- /.item -->
-                <div class="item">
-                    <div class="wrapper">
-                        <p>Always available to respond to issues and create solution.</p>
-                        <div class="name clearfix">
-                            <img src="asset/images/home/4.jpg" alt="">
-                            <h5>Constance O.</h5>
-                        </div>
-                    </div> <!-- /.wrapper -->
-                </div> <!-- /.item -->
-            </div> <!-- /.testimonial-slider -->
-        </div> <!-- /.main-container -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12 float-right">
+                <div class="main-container">
+                    <div class="theme-title-two">
+                        <h6>Testimonials</h6>
+                        <h2><span>Check what’s<strong>our</strong></span> <span>client Say about us</span></h2>
+                    </div> <!-- /.theme-title -->
+                    <div class="testimonial-slider">
+                        <div class="item">
+                            <div class="wrapper">
+                                <p>Working with Jennifer and the team has been an amazing experience as she is very professional and relates with Clients as family. Always on top of her game and highly result-oriented. Her advice has been very helpful in my decision making and I've never regretted any idea we bounce off each other.!</p>
+
+                                <h5>Olushola O.</h5>
+                            </div> <!-- /.wrapper -->
+                        </div> <!-- /.item -->
+                        <div class="item">
+                            <div class="wrapper">
+                                <p>I really didn't want the session to end because I was getting some insights and strategies I can develop to increase my brand awareness and positioning. It was a pleasure to engage you during the 30 minutes free session. I didn’t know I could explore my uniqueness to get lots of clients for my business. It was an eye-opener for me.</p>
+
+                                <h5>Ilyich T. Ghana.</h5>
+                            </div> <!-- /.wrapper -->
+                        </div> <!-- /.item -->
+                        <div class="item">
+                            <div class="wrapper">
+                                <p>The session was mind-blowing, I wish I could give the whole world for this. The training is so impactful. This is what I need.</p>
+
+                                <h5>Tongs F. Nigeria</h5>
+                            </div> <!-- /.wrapper -->
+                        </div> <!-- /.item -->
+                        <div class="item">
+                            <div class="wrapper">
+                                <p>I enjoyed my call, quite eye opening. Customer retention is key and sending a reminder to your customers so that they can try to replenish their products is important. I have never thought of it yet as a customer this would be an excellent service. My business is minding my customer's business!</p>
+
+                                <h5>Mary N. Kenya</h5>
+                            </div> <!-- /.wrapper -->
+                        </div> <!-- /.item -->
+                        <div class="item">
+                            <div class="wrapper">
+                                <p>Thank you very much..it a was brilliant and amazing 30minutes. My wow moment was when I was told branding isn't about colours and pictures. It's about who needs and can afford your value. Just amazing!!
+                                    I never knew all that!!!</p>
+                                <h5>Chongo C. Zambia</h5>
+                            </div> <!-- /.wrapper -->
+                        </div> <!-- /.item -->
+                    </div> <!-- /.testimonial-slider -->
+                </div> <!-- /.main-container -->
+            </div>
+            <div class="col-md-6 col-xs-12"><img src="asset/images/home/5.jpg" alt=""></div>
+        </div>
     </div> <!-- /.container -->
 </div> <!-- /.testimonial-section -->
-<!-- 
-		=============================================
-		Partner Logo
-	    ============================================== 
-	-->
 <div class="partent-logo-section">
     <div class="container">
         <div class="theme-title text-center ">
@@ -343,6 +505,46 @@ Who we are || Ingenium Concept LTD
         </div><br><br><br>
         <div id="partner-logo">
             <div class="item"><img src="asset/images/logo/p-1.png" alt="logo"></div>
+            <div class="item">
+                <a href="https://tribuneonlineng.com/jennifer-orode-tackles-customer-service-concerns-in-new-e-book/?utm_source=dlvr.it&utm_medium=twitter" target="_blank">
+                    <img src="asset/images/logo/p-2.jpg" alt="logo">
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://newsboardforme.com/good-customer-relations-are-the-key-to-business-sustainability-orode/61218/?amp=1" target="_blank">
+                    <img src="asset/images/logo/p-3.jpg" alt="logo">
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://newz-today.com/good-customer-relationships-is-key-to-business-sustainability-orode/" target="_blank">
+                    <img src="asset/images/logo/p-4.jpg" alt="logo">
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.thisdaylive.com/index.php/2022/07/29/jennifer-orode-tackles-customer-service-concerns-in-new-ebook/" target="_blank">
+                    <img src="asset/images/logo/p-5.jpg" alt="logo">
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://businessday.ng/brands-advertising/article/good-customer-relationships-is-key-to-business-sustainability-orode/" target="_blank">
+                    <img src="asset/images/logo/p-6.jpg" alt="logo">
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.vanguardngr.com/2022/07/jennifer-orode-tackles-customer-service-concerns-in-new-ebook/" target="_blank">
+                    <img src="asset/images/logo/p-5.jpg" alt="logo">
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.youtube.com/watch?v=uy0dBZDjDUo" target="_blank">
+                    <img src="asset/images/logo/p-8.png" alt="logo">
+                </a>
+            </div>
+            <div class="item">
+                <a href="https://www.youtube.com/watch?v=9Hynz1IBqQs" target="_blank">
+                    <img src="asset/images/logo/p-9.jpg" alt="logo">
+                </a>
+            </div>
         </div>
     </div>
 </div> <!-- /.partent-logo-section -->

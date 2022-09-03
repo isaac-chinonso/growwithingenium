@@ -135,17 +135,16 @@ Homepage || Ingenium Concept LTD
     ============================================== 
 -->
 <!-- The video -->
-<div class="container1">
-    <div class="responsive-iframe">
-        <video poster="asset/video/Drink-Wine.jpg" controls>
+<div class="">
+    <div class="container1">
+        <video poster="asset/video/intro.jpg" class="img-responsive intro" controls>
             <source src="asset/video/intro.mp4" type="video/mp4">
         </video>
     </div>
-
+    <h2 align="center">
+        <button class="btn p-bg-color" style="font-size: 23px;background-color:#b78700;"><a href="https://bit.ly/CustomerRetentionHacks" target="_blank" style="color: #fff;">Book a Session</a></button>
+    </h2>
 </div>
-<h2 align="center">
-    <button class="btn p-bg-color" style="font-size: 23px;background-color:#b78700;"><a href="https://bit.ly/CustomerRetentionHacks" target="_blank" style="color: #fff;">Book a Session</a></button><br><br>
-</h2>
 
 
 
@@ -209,74 +208,60 @@ Homepage || Ingenium Concept LTD
 <div class="two-section-wrapper ">
 
     <!-- 
-	=============================================
-		Testimonial
-	============================================== 
-				-->
-    <div class="testimonial-section bg-image">
+=============================================
+	Testimonial
+============================================== 
+-->
+    <div class="testimonial-section homeThree">
         <div class="container">
-            <div class="main-container col-md- col-md-offset-5">
-                <div class="theme-title">
-                    <h6>Testimonials</h6>
-                    <h2>Check what’s our client <br>Say about us</h2>
-                </div> <!-- /.theme-title -->
-                <div class="testimonial-slider">
-                    <div class="item">
-                        <div class="wrapper">
-                            <p>You are truly professional at your work. The integrity is why clients like me trust you with their huge sum of funds. Thank you for everything. </p>
-                            <div class="name clearfix">
-                                <img src="asset/images/home/4.jpg" alt="">
-                                <h5>Kadri Yusuf</h5>
-                            </div>
-                        </div> <!-- /.wrapper -->
-                    </div> <!-- /.item -->
-                    <div class="item">
-                        <div class="wrapper">
-                            <p>I love the professionalism and the fact that you kept to terms of the agreement. Delivery of service was also top-notch!</p>
-                            <div class="name clearfix">
-                                <img src="asset/images/home/4.jpg" alt="">
-                                <h5>Ijeoma I</h5>
-                            </div>
-                        </div> <!-- /.wrapper -->
-                    </div> <!-- /.item -->
-                    <div class="item">
-                        <div class="wrapper">
-                            <p>Working with Jennifer and the team has been an amazing experience as she is very professional and relates with Clients as family. Always on top of her game and highly result-oriented. Her advice has been very helpful in my decision making and I've never regretted any idea we bounce off each other.</p>
-                            <div class="name clearfix">
-                                <img src="asset/images/home/4.jpg" alt="">
-                                <h5>Olushola O.</h5><br>
-                            </div>
-                        </div> <!-- /.wrapper -->
-                    </div> <!-- /.item -->
-                    <div class="item">
-                        <div class="wrapper">
-                            <p>Highly skilled, experienced and strategic professionals that are results-oriented</p>
-                            <div class="name clearfix">
-                                <img src="asset/images/home/4.jpg" alt="">
-                                <h5>Onakorere R.O</h5>
-                            </div>
-                        </div> <!-- /.wrapper -->
-                    </div> <!-- /.item -->
-                    <div class="item">
-                        <div class="wrapper">
-                            <p>Always professional in all aspects.</p>
-                            <div class="name clearfix">
-                                <img src="asset/images/home/4.jpg" alt="">
-                                <h5>Mr clement</h5>
-                            </div>
-                        </div> <!-- /.wrapper -->
-                    </div> <!-- /.item -->
-                    <div class="item">
-                        <div class="wrapper">
-                            <p>Always available to respond to issues and create solution.</p>
-                            <div class="name clearfix">
-                                <img src="asset/images/home/4.jpg" alt="">
-                                <h5>Constance O.</h5>
-                            </div>
-                        </div> <!-- /.wrapper -->
-                    </div> <!-- /.item -->
-                </div> <!-- /.testimonial-slider -->
-            </div> <!-- /.main-container -->
+            <div class="row">
+                <div class="col-md-6 col-xs-12 float-right">
+                    <div class="main-container">
+                        <div class="theme-title-two">
+                            <h6>Testimonials</h6>
+                            <h2><span>Check what’s<strong>our</strong></span> <span>client Say about us</span></h2>
+                        </div> <!-- /.theme-title -->
+                        <div class="testimonial-slider">
+                            <div class="item">
+                                <div class="wrapper">
+                                    <p>Working with Jennifer and the team has been an amazing experience as she is very professional and relates with Clients as family. Always on top of her game and highly result-oriented. Her advice has been very helpful in my decision making and I've never regretted any idea we bounce off each other.!</p>
+
+                                    <h5>Olushola O.</h5>
+                                </div> <!-- /.wrapper -->
+                            </div> <!-- /.item -->
+                            <div class="item">
+                                <div class="wrapper">
+                                    <p>I really didn't want the session to end because I was getting some insights and strategies I can develop to increase my brand awareness and positioning. It was a pleasure to engage you during the 30 minutes free session. I didn’t know I could explore my uniqueness to get lots of clients for my business. It was an eye-opener for me.</p>
+
+                                    <h5>Ilyich T. Ghana.</h5>
+                                </div> <!-- /.wrapper -->
+                            </div> <!-- /.item -->
+                            <div class="item">
+                                <div class="wrapper">
+                                    <p>The session was mind-blowing, I wish I could give the whole world for this. The training is so impactful. This is what I need.</p>
+
+                                    <h5>Tongs F. Nigeria</h5>
+                                </div> <!-- /.wrapper -->
+                            </div> <!-- /.item -->
+                            <div class="item">
+                                <div class="wrapper">
+                                    <p>I enjoyed my call, quite eye opening. Customer retention is key and sending a reminder to your customers so that they can try to replenish their products is important. I have never thought of it yet as a customer this would be an excellent service. My business is minding my customer's business!</p>
+
+                                    <h5>Mary N. Kenya</h5>
+                                </div> <!-- /.wrapper -->
+                            </div> <!-- /.item -->
+                            <div class="item">
+                                <div class="wrapper">
+                                    <p>Thank you very much..it a was brilliant and amazing 30minutes. My wow moment was when I was told branding isn't about colours and pictures. It's about who needs and can afford your value. Just amazing!!
+                                        I never knew all that!!!</p>
+                                    <h5>Chongo C. Zambia</h5>
+                                </div> <!-- /.wrapper -->
+                            </div> <!-- /.item -->
+                        </div> <!-- /.testimonial-slider -->
+                    </div> <!-- /.main-container -->
+                </div>
+                <div class="col-md-6 col-xs-12"><img src="asset/images/home/5.jpg" alt=""></div>
+            </div>
         </div> <!-- /.container -->
     </div> <!-- /.testimonial-section -->
 
@@ -294,7 +279,7 @@ Homepage || Ingenium Concept LTD
                 @foreach($blogpost as $post)
                 <div class="col-md-4">
                     <div class="single-blog">
-                        <div class="image"><img src="{{ $post->blog_image }}" alt=""></div>
+                        <div class="image"><img src="uploads/{{ $post->blog_image }}" alt=""></div>
                         <div class="text">
                             <h6>{{ $post->category->name }}</h6>
                             <h5><a href="#" class="tran3s color-one"><span>{{ $post->title }}</span> </a></h5>
@@ -325,6 +310,46 @@ Homepage || Ingenium Concept LTD
             </div><br><br><br>
             <div id="partner-logo">
                 <div class="item"><img src="asset/images/logo/p-1.png" alt="logo"></div>
+                <div class="item">
+                    <a href="https://tribuneonlineng.com/jennifer-orode-tackles-customer-service-concerns-in-new-e-book/?utm_source=dlvr.it&utm_medium=twitter" target="_blank">
+                        <img src="asset/images/logo/p-2.jpg" alt="logo">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://newsboardforme.com/good-customer-relations-are-the-key-to-business-sustainability-orode/61218/?amp=1" target="_blank">
+                        <img src="asset/images/logo/p-3.jpg" alt="logo">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://newz-today.com/good-customer-relationships-is-key-to-business-sustainability-orode/" target="_blank">
+                        <img src="asset/images/logo/p-4.jpg" alt="logo">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://www.thisdaylive.com/index.php/2022/07/29/jennifer-orode-tackles-customer-service-concerns-in-new-ebook/" target="_blank">
+                        <img src="asset/images/logo/p-5.jpg" alt="logo">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://businessday.ng/brands-advertising/article/good-customer-relationships-is-key-to-business-sustainability-orode/" target="_blank">
+                        <img src="asset/images/logo/p-6.jpg" alt="logo">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://www.vanguardngr.com/2022/07/jennifer-orode-tackles-customer-service-concerns-in-new-ebook/" target="_blank">
+                        <img src="asset/images/logo/p-5.jpg" alt="logo">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=uy0dBZDjDUo" target="_blank">
+                        <img src="asset/images/logo/p-8.png" alt="logo">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="https://www.youtube.com/watch?v=9Hynz1IBqQs" target="_blank">
+                        <img src="asset/images/logo/p-9.jpg" alt="logo">
+                    </a>
+                </div>
             </div>
         </div>
     </div> <!-- /.partent-logo-section -->

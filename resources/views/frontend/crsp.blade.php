@@ -297,12 +297,26 @@ CRSP || Ingenium Concept LTD
                     <div class="testimonial-slider">
                         <div class="item">
                             <div class="wrapper">
-                                <p>Their testimonial videos aren't production quality, but they get the message across, cover useful &amp; relevant information which goes to show you don't need to investthousands in production get some testimonial videos up with quality.</p>
+                                <p>Thank you Team CRSP for this impactful session today🙏 Thank you my erudite Coach Jennifer for your time, professional mentorship and mothering guide today and always. Truly you are unstoppable in bringing out the best in me🙏🙇‍♂️🙇‍♂️🙇‍♂️. You were able to bring me out of darkness in today's session. 🤝</p>
+                                <h5>Tongs F. Nigeria</h5>
                             </div> <!-- /.wrapper -->
                         </div> <!-- /.item -->
                         <div class="item">
                             <div class="wrapper">
-                                <p>Their testimonial videos aren't production quality, but they get the message across, cover useful &amp; relevant information which goes to show you don't need to investthousands in production get some testimonial videos up with quality.</p>
+                                <p>Hello there, thank you I really felt encouraged and more motivated after this session.</p>
+                                <h5>Jennifer T. London, UK.</h5>
+                            </div> <!-- /.wrapper -->
+                        </div> <!-- /.item -->
+                        <div class="item">
+                            <div class="wrapper">
+                                <p>So far I have learnt alot, through the assignment i have been able to know my personality and personality of my business and this will help me tackle my business challenges.</p>
+                                <h5>JCindy I. Kenya</h5>
+                            </div> <!-- /.wrapper -->
+                        </div> <!-- /.item -->
+                        <div class="item">
+                            <div class="wrapper">
+                                <p>The journey has been good, I have gone through the first session of the training and it has been impactful and valuable, if the start of the training can be like this, then the rest of the training will be amazing. Just like you promised, It's not like other training, it is really engaging, we really appreciate you for your time. This is a real coaching program and I am looking forward to the remaining classes.</p>
+                                <h5>Samuel S. Nigeria</h5>
                             </div> <!-- /.wrapper -->
                         </div> <!-- /.item -->
                     </div> <!-- /.testimonial-slider -->

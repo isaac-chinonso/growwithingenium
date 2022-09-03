@@ -9,6 +9,9 @@ use Illuminate\Support\Facades\Auth;
 use App\Models\Review;
 use App\Models\Complain;
 use App\Models\LessonTask;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\SendTaskSubmit;
+
 class PostStudentController extends Controller
 {
     // Save Reviews
@@ -56,7 +59,8 @@ class PostStudentController extends Controller
     }
 
     // Delete Complain 
-    public function deletecomplain($id){
+    public function deletecomplain($id)
+    {
         $complain = Complain::find($id);
         $complain->delete();
 
@@ -65,7 +69,8 @@ class PostStudentController extends Controller
     }
 
     // Delete Review 
-    public function deletereview($id){
+    public function deletereview($id)
+    {
         $review = Review::find($id);
         $review->delete();
 
@@ -78,7 +83,7 @@ class PostStudentController extends Controller
     {
         // Validation
         $this->validate($request, [
-            
+
             'lesson_id' => 'required',
         ]);
 
@@ -96,15 +101,14 @@ class PostStudentController extends Controller
         $lessontask->source = $filename;
         $lessontask->status = 1;
 
-        if (LessonTask::where('user_id', '=', $user->id)->exists()) {
-            return redirect()->back()->with('warning_message', 'Task Already SUbmited Once');
-        } else {
-            $lessontask->save();
-        }
+        $this->email = ['isaacchinonsogift@gmail.com'];
+        
+        Mail::to($this->email)->send(new SendTaskSubmit($lessontask));
+
+        $lessontask->save();
 
         \Session::flash('Success_message', 'Task Submitted to Admin Successfully');
 
         return back();
     }
-
 }

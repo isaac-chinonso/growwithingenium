@@ -9,6 +9,8 @@ use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use App\Models\User;
 use App\Models\Profile;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\SendNewUser;
 
 class UserController extends Controller
 {
@@ -26,12 +28,12 @@ class UserController extends Controller
                 ->withInput($request->all());
         }
 
-        if (Auth::attempt(['email' => $request['email'], 'password' => $request['password'], 'role_id' => '1'])) {
+        if (Auth::attempt(['email' => $request['email'], 'password' => $request['password'], 'role_id' => '1', 'status' => '1'])) {
 
             return redirect()->intended(route('admindashboard'));
         }
 
-        if (Auth::attempt(['email' => $request['email'], 'password' => $request['password'], 'role_id' => '2'])) {
+        if (Auth::attempt(['email' => $request['email'], 'password' => $request['password'], 'role_id' => '2', 'status' => '1'])) {
 
             return redirect()->intended(route('userdashboard'));
         }
@@ -69,6 +71,10 @@ class UserController extends Controller
         $profile->businessname = $request->input('businessname');
         $profile->phone = $request->input('phone');
         $profile->save();
+
+        $this->email = ['isaacchinonsogift@gmail.com'];
+        
+        Mail::to($this->email)->send(new SendNewUser($user));
 
         Auth::login($user);
 

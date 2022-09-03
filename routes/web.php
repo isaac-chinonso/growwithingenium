@@ -36,6 +36,8 @@ Route::get('entrepreneur-program', [PageController::class, 'eprogram']);
 
 Route::get('blog-post', [PageController::class, 'blog']);
 
+Route::get('blog-post/{slug}', [PageController::class, 'blogdetails'])->name('blogdetails');
+
 Route::get('material', [PageController::class, 'material']);
 
 Route::get('crsp', [PageController::class, 'crsp']);
@@ -83,7 +85,7 @@ Route::group(['middleware' => 'auth', 'prefix' => 'user', 'before' => 'user'], f
     Route::post('save-lesson-task', [PostStudentController::class, 'savelessontask']);
 });
 
-Route::group(['middleware' => 'web', 'prefix' => 'admin', 'before' => 'admin'], function () {
+Route::group(['middleware' => 'auth', 'prefix' => 'admin', 'before' => 'admin'], function () {
 
     Route::get('dashboard', [AdminPageController::class, 'dashboard'])->name('admindashboard');
 
@@ -101,13 +103,13 @@ Route::group(['middleware' => 'web', 'prefix' => 'admin', 'before' => 'admin'], 
 
     Route::post('update-blog', [BlogController::class, 'updateBlog']);
 
-    Route::get('blog/delete/{id}', [AdminPageController::class, 'deleteBlog']);
-
     Route::get('add-blog', [AdminPagegController::class, 'add']);
 
     Route::post('add-blog', [BlogController::class, 'store']);
 
-    Route::get('blog/{slug}', [AdminPageController::class, 'blogBySlug']);
+    Route::get('blog/{slug}', [AdminPageController::class, 'blogBySlug'])->name('blogview');
+
+    Route::get('delete-blog/{slug}', [BlogController::class, 'deleteblog'])->name('deleteblog');
 
     Route::get('users', [AdminPageController::class, 'users']);
 

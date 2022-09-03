@@ -45,6 +45,12 @@ class AdminPageController extends Controller
         return view('admin.post', $data);
     }
 
+    public function blogBySlug($slug)
+    {
+        $data['blogview'] = Blog::where('slug', '=', $slug)->first();
+        return view('admin.blogview', $data);
+    }
+
     public function createpost()
     {
         $data['categories'] = Category::get();

@@ -73,8 +73,8 @@ Dashboard || Ingenium Concept LTD
             <div class="col-lg-4">
                 <div class="card">
                     <div class="card-body">
-                        <h4>Total Messages<span class="pull-right"><i class="mdi mdi-email f-s-30 text-primary"></i></span></h4>
-                        <h4 class="m-t-20 f-s-14">{{ $allblogpost }}</h4>
+                        <h4>Total Blog Category<span class="pull-right"><i class="mdi mdi-nfc-variant f-s-30 text-primary"></i></span></h4>
+                        <h4 class="m-t-20 f-s-14">{{ $allcategory }}</h4>
                         <div class="progress m-t-0 h-7px">
                             <div role="progressbar" class="progress-bar bg-primary wow animated progress-animated w-100pc h-7px"></div>
                         </div>

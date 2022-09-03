@@ -67,7 +67,7 @@ Create Blog Post || Ingenium Concept LTD
                                 </div>
                                 <div class="form-group">
                                     <label class="control-label">Long Description:</label>
-                                    <textarea class="form-control" id="summernote"  name="long_desc"></textarea>
+                                    <textarea class="form-control summernote" name="long_desc"></textarea>
                                 </div>
 
                             </div>

@@ -11,14 +11,9 @@
     <link href="../app/plugins/tables/css/datatable/dataTables.bootstrap4.min.css" rel="stylesheet">
     <link href="../app/css/style.css" rel="stylesheet">
     <script src="../app/js/modernizr-3.6.0.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
-    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-bs4.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-bs4.min.js"></script>
+    <link href="../app/plugins/summernote/dist/summernote.css" rel="stylesheet">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EBC6R8X109"></script>
     <script>
@@ -143,7 +138,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="{{ url('dashboard') }}"><i class="mdi mdi-email"></i> <span class="nav-text">Messages</span></a>
+                    <li><a href="#"><i class="mdi mdi-email"></i> <span class="nav-text">Messages</span></a>
                     </li>
                     <li><a class="has-arrow" href="#" aria-expanded="false"><i class="fa fa-users"></i> <span class="nav-text">Users</span></a>
                         <ul aria-expanded="false">
@@ -186,6 +181,8 @@
     <script src="../app/plugins/tables/js/jquery.dataTables.min.js"></script>
     <script src="../app/plugins/tables/js/datatable/dataTables.bootstrap4.min.js"></script>
     <script src="../app/plugins/tables/js/datatable-init/datatable-basic.min.js"></script>
+    <script src="../app/plugins/summernote/dist/summernote.min.js"></script>
+    <script src="../app/plugins/summernote/dist/summernote-init.js"></script>
     <!-- include summernote css/js -->
 
 </html>

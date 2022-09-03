@@ -133,7 +133,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="{{ url('dashboard') }}"><i class="mdi mdi-email"></i> <span class="nav-text">Messages</span></a>
+                    <li><a href="#"><i class="mdi mdi-email"></i> <span class="nav-text">Messages</span></a>
                     </li>
                     <li><a class="has-arrow" href="#" aria-expanded="false"><i class="fa fa-users"></i> <span class="nav-text">Users</span></a>
                         <ul aria-expanded="false">

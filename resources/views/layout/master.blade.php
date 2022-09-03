@@ -87,7 +87,7 @@
             <div class="header-wrapper">
                 <div class="container">
                     <!-- Logo -->
-                    <div class="logo float-left tran4s">
+                    <div class="float-left tran4s">
                         <a href="index.html"><img src="asset/images/logo/logo12.png" alt="Logo"></a>
                     </div>
 
