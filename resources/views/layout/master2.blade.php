@@ -90,7 +90,7 @@
                 <div class="clearfix">
                     <!-- Logo -->
                     <div class="logo float-left tran4s">
-                        <a href="index.html"><img src="../asset/images/logo/logo12.png" alt="Logo"></a>
+                        <a href="{{ url('/') }}"><img src="../asset/images/logo/logo12.png" alt="Logo"></a>
                     </div>
 
                     <!-- ============================ Theme Menu ========================= -->
@@ -203,7 +203,7 @@
                 <!-- /.row -->
 
                 <div class="bottom-footer clearfix">
-                    <p class="float-left">&copy; 2021 <a href="#" class="tran3s p-color">Ingenium Concept LTD</a>. All rights reserved. Designed with <i class="fa fa-heart"></i> Dcode Arena</p>
+                    <p class="float-left">&copy; 2021 <a href="#" class="tran3s p-color">Ingenium Concept LTD</a>. All rights reserved. Designed with <i class="fa fa-heart"></i> <a href="https://wa.me/2349035820637" target="_blank"> Dcode Arena</a></p>
                 </div>
             </div>
             <!-- /.container -->

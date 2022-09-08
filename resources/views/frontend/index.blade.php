@@ -282,9 +282,9 @@ Homepage || Ingenium Concept LTD
                         <div class="image"><img src="uploads/{{ $post->blog_image }}" alt=""></div>
                         <div class="text">
                             <h6>{{ $post->category->name }}</h6>
-                            <h5><a href="#" class="tran3s color-one"><span>{{ $post->title }}</span> </a></h5>
+                            <h5><a href="{{ route('blogdetails', $post->slug) }}" class="tran3s color-one"><span>{{ $post->title }}</span> </a></h5>
                             <p>{{ $post->short_desc }}</p>
-                            <a href="#" class="tran3s"><i class="flaticon-arrows" aria-hidden="true"></i></a>
+                            <a href="{{ route('blogdetails', $post->slug) }}" class="tran3s"><i class="flaticon-arrows" aria-hidden="true"></i></a>
                         </div>
                         <!-- /.single-blog -->
                     </div>
